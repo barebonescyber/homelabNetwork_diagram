@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-18T20:19:33.274Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/116.0" etag="8ZPgBntIPWFRUw-Zo0BE" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-18T20:28:37.785Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/116.0" etag="SgumQ9PR8ReoR2J8d4Qo" version="21.6.8" type="github">
   <diagram name="Page-1" id="bfe91b75-5d2c-26a0-9c1d-138518896778">
     <mxGraphModel dx="2074" dy="1970" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -131,6 +131,9 @@
         </mxCell>
         <mxCell id="_xwjOuYu2vOC0Fqwrl7h-53" value="&lt;div style=&quot;font-size: 17px;&quot; align=&quot;center&quot;&gt;&lt;b&gt;&lt;font color=&quot;#7ea6e0&quot;&gt;pfSense&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1420" y="538" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_xwjOuYu2vOC0Fqwrl7h-54" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.virtual_server;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="600" width="110" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
