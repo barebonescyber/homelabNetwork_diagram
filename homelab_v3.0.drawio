@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2023-10-15T01:03:31.354Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="gopQuJTiEtXba-T_r7iH" version="21.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-15T02:23:18.365Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="yQ6epn428Wmqy4gaEpzK" version="21.8.0" type="github">
   <diagram name="Page-1" id="Gz2OW-2O6twBv-y2hm4n">
-    <mxGraphModel dx="2924" dy="1110" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2284" dy="750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="6AgiHDk-AYFdmTXKW45j-122" value="&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;font color=&quot;#3333ff&quot;&gt;SEC_BLUE vSOC env&lt;/font&gt;" style="html=1;fontColor=#FF3333;fontStyle=1;align=left;verticalAlign=top;spacing=0;labelBorderColor=none;fillColor=none;dashed=1;strokeWidth=2;strokeColor=#3333FF;spacingLeft=4;spacingTop=-3;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
-          <mxGeometry x="429" y="142.5" width="600" height="777.5" as="geometry" />
+        <mxCell id="6AgiHDk-AYFdmTXKW45j-122" value="&amp;nbsp;&lt;font color=&quot;#3333ff&quot;&gt;SEC_BLUE vSOC env&lt;/font&gt;" style="html=1;fontColor=#FF3333;fontStyle=1;align=left;verticalAlign=top;spacing=0;labelBorderColor=none;fillColor=none;dashed=1;strokeWidth=2;strokeColor=#3333FF;spacingLeft=4;spacingTop=-3;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="332.42" y="185" width="931" height="777.5" as="geometry" />
         </mxCell>
-        <mxCell id="6AgiHDk-AYFdmTXKW45j-123" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;SEC_RED Pen Testing env" style="html=1;fontColor=#FF3333;fontStyle=1;align=left;verticalAlign=top;spacing=0;labelBorderColor=none;fillColor=none;dashed=1;strokeWidth=2;strokeColor=#FF3333;spacingLeft=4;spacingTop=-3;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
-          <mxGeometry x="158.85" y="142.5" width="230" height="780" as="geometry" />
+        <mxCell id="6AgiHDk-AYFdmTXKW45j-123" value="SEC_RED Pen Testing env" style="html=1;fontColor=#FF3333;fontStyle=1;align=left;verticalAlign=top;spacing=0;labelBorderColor=none;fillColor=none;dashed=1;strokeWidth=2;strokeColor=#FF3333;spacingLeft=4;spacingTop=-3;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="29.999999999999993" y="182.5" width="230" height="780" as="geometry" />
         </mxCell>
         <mxCell id="6AgiHDk-AYFdmTXKW45j-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;shape=link;" edge="1" parent="1" source="6AgiHDk-AYFdmTXKW45j-1" target="6AgiHDk-AYFdmTXKW45j-5">
           <mxGeometry relative="1" as="geometry" />
@@ -51,7 +51,7 @@
         <mxCell id="6AgiHDk-AYFdmTXKW45j-13" value="" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.dell.dell_poweredge_2u;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="-503.5" y="400" width="162" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6AgiHDk-AYFdmTXKW45j-14" value="Proxmox VE 8.0.4&lt;br&gt;&lt;br&gt;Dell R630&lt;br&gt;&lt;br&gt;1x Intel E5-2697 v4&lt;br&gt;18 Core - 36 Thread&lt;br&gt;&lt;br&gt;377 GiB DDR4" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=default;" vertex="1" parent="1">
+        <mxCell id="6AgiHDk-AYFdmTXKW45j-14" value="Proxmox VE 8.0.4&lt;br&gt;&lt;br&gt;Dell R630&lt;br&gt;&lt;br&gt;1x Intel E5-2697 v4&lt;br&gt;18 Core - 36 Thread&lt;br&gt;&lt;br&gt;377 GiB DDR4&lt;br&gt;&lt;br&gt;500 Gb OS drive&lt;br&gt;2Tb VM storage" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="-503.5" y="440" width="160" height="170" as="geometry" />
         </mxCell>
         <mxCell id="6AgiHDk-AYFdmTXKW45j-16" value="&lt;b&gt;8-port Unmanaged switch&lt;/b&gt;&lt;br&gt;Home network" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -86,7 +86,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6AgiHDk-AYFdmTXKW45j-36" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.router;" vertex="1" parent="1">
-          <mxGeometry x="-220" y="147.5" width="100" height="30" as="geometry" />
+          <mxGeometry x="-227.5" y="147.5" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6AgiHDk-AYFdmTXKW45j-39" value="&lt;b&gt;OVS IntPort&lt;br&gt;&lt;/b&gt;vmbr0_mgmt&lt;br&gt;&lt;b&gt;172.25.140.101/24&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-252.5" y="327.5" width="105" height="55" as="geometry" />
@@ -101,89 +101,85 @@
           <mxGeometry x="-760" y="80" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="6AgiHDk-AYFdmTXKW45j-47" value="&lt;b&gt;pfSense&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-200" y="117.5" width="60" height="30" as="geometry" />
+          <mxGeometry x="-207.5" y="117.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6AgiHDk-AYFdmTXKW45j-51" value="&lt;b&gt;pfSense WAN&lt;/b&gt;&lt;br&gt;DHCP from home router" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-312.5" y="97.5" width="85" height="50" as="geometry" />
         </mxCell>
         <mxCell id="6AgiHDk-AYFdmTXKW45j-55" value="&lt;b&gt;Open vSwitch&lt;/b&gt;&lt;br&gt;vmbr1&lt;br&gt;&lt;b&gt;10.0.0.0/24&lt;br&gt;&lt;/b&gt;LAN" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-51.25" y="90" width="102.5" height="55" as="geometry" />
+          <mxGeometry x="-110" y="90" width="102.5" height="55" as="geometry" />
         </mxCell>
         <mxCell id="6AgiHDk-AYFdmTXKW45j-56" value="&lt;b&gt;OVS IntPort&lt;/b&gt;&lt;br&gt;vmbr1_666&lt;br&gt;&lt;b&gt;10.6.6.0/24&lt;br&gt;&lt;/b&gt;SEC_RED" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="140" y="85" width="93" height="52.5" as="geometry" />
+          <mxGeometry y="87.5" width="93" height="52.5" as="geometry" />
         </mxCell>
         <mxCell id="6AgiHDk-AYFdmTXKW45j-57" value="&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;OVS IntPort&lt;/b&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;vmbr1_777&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;b&gt;10.7.7.0/24&lt;br&gt;&lt;/b&gt;SEC_BLUE" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="410" y="87.5" width="78" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="6AgiHDk-AYFdmTXKW45j-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=link;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="6AgiHDk-AYFdmTXKW45j-70" target="6AgiHDk-AYFdmTXKW45j-140">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="90" y="162.5" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="310.92" y="90" width="78" height="50" as="geometry" />
         </mxCell>
         <mxCell id="6AgiHDk-AYFdmTXKW45j-70" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.ethernet_port;direction=west;" vertex="1" parent="1">
-          <mxGeometry x="169" y="145" width="35" height="35" as="geometry" />
+          <mxGeometry x="29" y="142.5" width="35" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="6AgiHDk-AYFdmTXKW45j-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=link;" edge="1" parent="1" source="6AgiHDk-AYFdmTXKW45j-71" target="6AgiHDk-AYFdmTXKW45j-70">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="260" y="163" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="6AgiHDk-AYFdmTXKW45j-165" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=link;" edge="1" parent="1" source="6AgiHDk-AYFdmTXKW45j-71" target="6AgiHDk-AYFdmTXKW45j-70">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6AgiHDk-AYFdmTXKW45j-71" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.ethernet_port;direction=west;" vertex="1" parent="1">
-          <mxGeometry x="431.5" y="145" width="35" height="35" as="geometry" />
+          <mxGeometry x="332.42" y="142.5" width="35" height="35" as="geometry" />
         </mxCell>
         <mxCell id="6AgiHDk-AYFdmTXKW45j-76" value="&lt;b&gt;juicebox.cyber.range&lt;/b&gt;&lt;br&gt;OWASP Juice Shop&lt;br&gt;Docker - Debian 12&lt;br&gt;&lt;b&gt;10.6.6.13&lt;/b&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.container_3;" vertex="1" parent="1">
-          <mxGeometry x="858.4900000000001" y="720" width="45" height="45" as="geometry" />
+          <mxGeometry x="618.4300000000001" y="717.5" width="45" height="45" as="geometry" />
         </mxCell>
         <mxCell id="6AgiHDk-AYFdmTXKW45j-77" value="&lt;b&gt;kali.cyber.range&lt;/b&gt;&lt;br&gt;Kali 2023.3&lt;br&gt;&lt;b&gt;10.0.0.12&lt;/b&gt;" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/VM_Linux.svg;" vertex="1" parent="1">
-          <mxGeometry x="246.67000000000002" y="240" width="54.35" height="50" as="geometry" />
+          <mxGeometry x="106.67000000000002" y="242.5" width="54.35" height="50" as="geometry" />
         </mxCell>
         <mxCell id="6AgiHDk-AYFdmTXKW45j-84" value="&lt;font style=&quot;&quot; color=&quot;#000000&quot;&gt;&lt;b&gt;seconion.cyber.range&lt;/b&gt;&lt;br&gt;SecurityOnion&lt;br&gt;4 core - 32 GB&lt;br&gt;&lt;/font&gt;" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.virtual_server;" vertex="1" parent="1">
-          <mxGeometry x="700.99" y="222.5" width="40" height="40" as="geometry" />
+          <mxGeometry x="800.93" y="245" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6AgiHDk-AYFdmTXKW45j-168" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=link;" edge="1" parent="1" source="6AgiHDk-AYFdmTXKW45j-86" target="6AgiHDk-AYFdmTXKW45j-140">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6AgiHDk-AYFdmTXKW45j-86" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.ethernet_port;direction=west;" vertex="1" parent="1">
-          <mxGeometry x="670.99" y="180" width="30" height="30" as="geometry" />
+          <mxGeometry x="-76.25" y="250" width="35" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="6AgiHDk-AYFdmTXKW45j-169" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=link;" edge="1" parent="1" source="6AgiHDk-AYFdmTXKW45j-87" target="6AgiHDk-AYFdmTXKW45j-71">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6AgiHDk-AYFdmTXKW45j-87" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.ethernet_port;direction=west;" vertex="1" parent="1">
-          <mxGeometry x="740.99" y="180" width="30" height="30" as="geometry" />
+          <mxGeometry x="800.9300000000001" y="142.5" width="35" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="6AgiHDk-AYFdmTXKW45j-88" value="&lt;font style=&quot;&quot; color=&quot;#000000&quot;&gt;&lt;b&gt;VNAPP01.cyber.range&lt;/b&gt;&lt;br&gt;RHEL 9.2&lt;br&gt;Wazuh server&lt;br&gt;4 core - 4 GB&lt;br&gt;&lt;/font&gt;" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.virtual_server;" vertex="1" parent="1">
-          <mxGeometry x="700.99" y="347.5" width="40" height="40" as="geometry" />
+        <mxCell id="6AgiHDk-AYFdmTXKW45j-88" value="&lt;font style=&quot;&quot; color=&quot;#000000&quot;&gt;&lt;b&gt;vnapp01.cyber.range&lt;/b&gt;&lt;br&gt;RHEL 9.2&lt;br&gt;Wazuh server&lt;br&gt;4 core - 4 GB&lt;br&gt;&lt;/font&gt;" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.virtual_server;" vertex="1" parent="1">
+          <mxGeometry x="439.92" y="402.5" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="6AgiHDk-AYFdmTXKW45j-89" value="&lt;font style=&quot;&quot; color=&quot;#000000&quot;&gt;&lt;b&gt;VNAPP02.cyber.range&lt;/b&gt;&lt;br&gt;&lt;/font&gt;&lt;font color=&quot;#000000&quot;&gt;Ubuntu 22.04 - LTS&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;&quot; color=&quot;#000000&quot;&gt;AC-Hunter / Zeek&lt;br&gt;&lt;/font&gt;" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.virtual_server;" vertex="1" parent="1">
-          <mxGeometry x="700.99" y="472.5" width="40" height="40" as="geometry" />
+        <mxCell id="6AgiHDk-AYFdmTXKW45j-89" value="&lt;font style=&quot;&quot; color=&quot;#000000&quot;&gt;&lt;b&gt;vnapp02.cyber.range&lt;/b&gt;&lt;br&gt;&lt;/font&gt;&lt;font color=&quot;#000000&quot;&gt;Ubuntu 22.04 - LTS&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;&quot; color=&quot;#000000&quot;&gt;AC-Hunter / Zeek&lt;br&gt;&lt;/font&gt;" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.virtual_server;" vertex="1" parent="1">
+          <mxGeometry x="620.93" y="402.5" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="6AgiHDk-AYFdmTXKW45j-90" value="&lt;font style=&quot;&quot; color=&quot;#000000&quot;&gt;&lt;b&gt;VNAPP03.cyber.range&lt;/b&gt;&lt;br&gt;Debian 12&lt;br&gt;&lt;/font&gt;" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.virtual_server;" vertex="1" parent="1">
-          <mxGeometry x="700.99" y="597.5" width="40" height="40" as="geometry" />
+        <mxCell id="6AgiHDk-AYFdmTXKW45j-91" value="&lt;font style=&quot;&quot; color=&quot;#000000&quot;&gt;&lt;b&gt;vnfs01.cyber.range&lt;/b&gt;&lt;br&gt;RHEL 9.2&lt;br&gt;File Server&lt;br&gt;&lt;/font&gt;" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.virtual_server;" vertex="1" parent="1">
+          <mxGeometry x="800.93" y="562.5" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="6AgiHDk-AYFdmTXKW45j-91" value="&lt;font style=&quot;&quot; color=&quot;#000000&quot;&gt;&lt;b&gt;VNFS01.cyber.range&lt;/b&gt;&lt;br&gt;Ubuntu 22.04 - LTS&lt;br&gt;File Server&lt;br&gt;(rebuild RHEL 9.2 or Deb 12)&lt;br&gt;&lt;/font&gt;" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.virtual_server;" vertex="1" parent="1">
-          <mxGeometry x="860.99" y="347.5" width="40" height="40" as="geometry" />
+        <mxCell id="6AgiHDk-AYFdmTXKW45j-92" value="&lt;font style=&quot;&quot; color=&quot;#000000&quot;&gt;&lt;b&gt;vnprtg.cyber.range&lt;/b&gt;&lt;br&gt;Windows Server 2019&lt;br&gt;PRTG Server&lt;br&gt;&lt;/font&gt;" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.virtual_server;" vertex="1" parent="1">
+          <mxGeometry x="440.91" y="722.5" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="6AgiHDk-AYFdmTXKW45j-92" value="&lt;font style=&quot;&quot; color=&quot;#000000&quot;&gt;&lt;b&gt;VNPRTG.cyber.range&lt;/b&gt;&lt;br&gt;Windows Server 2019&lt;br&gt;PRTG Server&lt;br&gt;&lt;/font&gt;" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.virtual_server;" vertex="1" parent="1">
-          <mxGeometry x="860.99" y="220" width="40" height="40" as="geometry" />
+        <mxCell id="6AgiHDk-AYFdmTXKW45j-95" value="&lt;b&gt;vnwindt01.cyber.range&lt;/b&gt;&lt;br&gt;Windows 11" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/VirtualMachineWindows.svg;" vertex="1" parent="1">
+          <mxGeometry x="1160.92" y="247.5" width="38.04" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="6AgiHDk-AYFdmTXKW45j-95" value="&lt;b&gt;VNDT01.cyber.range&lt;/b&gt;&lt;br&gt;Windows 11" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/VirtualMachineWindows.svg;" vertex="1" parent="1">
-          <mxGeometry x="529.9999999999999" y="472.5" width="54.35" height="50" as="geometry" />
+        <mxCell id="6AgiHDk-AYFdmTXKW45j-97" value="&lt;b&gt;vnwindt02.cyber.range&lt;/b&gt;&lt;br&gt;Windows 10" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/VirtualMachineWindows.svg;" vertex="1" parent="1">
+          <mxGeometry x="1160.92" y="407.5" width="38.04" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="6AgiHDk-AYFdmTXKW45j-97" value="&lt;b&gt;VNDT02.cyber.range&lt;/b&gt;&lt;br&gt;Windows 10" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/VirtualMachineWindows.svg;" vertex="1" parent="1">
-          <mxGeometry x="529.9999999999999" y="602.5" width="54.35" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="6AgiHDk-AYFdmTXKW45j-98" value="&lt;b&gt;VNDT03.cyber.range&lt;/b&gt;&lt;br&gt;Windows 7" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/VirtualMachineWindows.svg;" vertex="1" parent="1">
-          <mxGeometry x="529.9999999999999" y="722.5" width="54.35" height="50" as="geometry" />
+        <mxCell id="6AgiHDk-AYFdmTXKW45j-98" value="&lt;b&gt;vnwindt03.cyber.range&lt;/b&gt;&lt;br&gt;Windows 7" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/VirtualMachineWindows.svg;" vertex="1" parent="1">
+          <mxGeometry x="1160.92" y="567.5" width="38.04" height="35" as="geometry" />
         </mxCell>
         <mxCell id="6AgiHDk-AYFdmTXKW45j-101" value="&lt;b&gt;blackarch.cyber.range&lt;/b&gt;&lt;br&gt;BlackArch&lt;br&gt;&lt;b&gt;10.0.0.x&lt;/b&gt;" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/VM_Linux.svg;" vertex="1" parent="1">
-          <mxGeometry x="246.99" y="385" width="54.35" height="50" as="geometry" />
+          <mxGeometry x="106.99000000000001" y="387.5" width="54.35" height="50" as="geometry" />
         </mxCell>
         <mxCell id="6AgiHDk-AYFdmTXKW45j-102" value="&lt;b&gt;parrot.cyber.range&lt;/b&gt;&lt;br&gt;ParrotOS&lt;br&gt;&lt;b&gt;10.0.0.x&lt;/b&gt;" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/VM_Linux.svg;" vertex="1" parent="1">
-          <mxGeometry x="246.99" y="540" width="54.35" height="50" as="geometry" />
+          <mxGeometry x="106.99000000000001" y="542.5" width="54.35" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="6AgiHDk-AYFdmTXKW45j-120" value="&lt;b style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0);&quot;&gt;VNDC01.cyber.range&lt;/b&gt;&lt;br style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0);&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;Windows Server 2019&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/font&gt;&lt;span style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0);&quot;&gt;Domain Controller&lt;/span&gt;&lt;font style=&quot;&quot; color=&quot;#000000&quot;&gt;&lt;br&gt;&lt;/font&gt;" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.virtual_server;" vertex="1" parent="1">
-          <mxGeometry x="537.1700000000001" y="222.5" width="40" height="40" as="geometry" />
+        <mxCell id="6AgiHDk-AYFdmTXKW45j-120" value="&lt;b style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0);&quot;&gt;vnwindc01.cyber.range&lt;/b&gt;&lt;br style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0);&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;Windows Server 2019&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/font&gt;&lt;span style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0);&quot;&gt;Domain Controller&lt;/span&gt;&lt;font style=&quot;&quot; color=&quot;#000000&quot;&gt;&lt;br&gt;&lt;/font&gt;" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.virtual_server;" vertex="1" parent="1">
+          <mxGeometry x="440.91000000000014" y="242.5" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="6AgiHDk-AYFdmTXKW45j-124" value="&lt;font style=&quot;&quot; color=&quot;#000000&quot;&gt;&lt;b&gt;VNAPP04.cyber.range&lt;/b&gt;&lt;br&gt;&lt;/font&gt;&lt;font color=&quot;#000000&quot;&gt;Ubuntu 22.04 - LTS&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;&quot; color=&quot;#000000&quot;&gt;Suricata + ELK&lt;br&gt;&lt;/font&gt;" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.virtual_server;" vertex="1" parent="1">
-          <mxGeometry x="700.99" y="722.5" width="40" height="40" as="geometry" />
+        <mxCell id="6AgiHDk-AYFdmTXKW45j-124" value="&lt;font style=&quot;&quot; color=&quot;#000000&quot;&gt;&lt;b&gt;vnapp03.cyber.range&lt;/b&gt;&lt;br&gt;&lt;/font&gt;&lt;font color=&quot;#000000&quot;&gt;Ubuntu 22.04 - LTS&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;&quot; color=&quot;#000000&quot;&gt;Suricata + ELK&lt;br&gt;&lt;/font&gt;" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.virtual_server;" vertex="1" parent="1">
+          <mxGeometry x="800.93" y="402.5" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="6AgiHDk-AYFdmTXKW45j-125" value="&lt;b style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0);&quot;&gt;VNDC02.cyber.range&lt;/b&gt;&lt;br style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0);&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;Windows Server 2019&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/font&gt;&lt;span style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0);&quot;&gt;Domain Controller&lt;/span&gt;&lt;font style=&quot;&quot; color=&quot;#000000&quot;&gt;&lt;br&gt;&lt;/font&gt;" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.virtual_server;" vertex="1" parent="1">
-          <mxGeometry x="537.1700000000001" y="347.5" width="40" height="40" as="geometry" />
+        <mxCell id="6AgiHDk-AYFdmTXKW45j-125" value="&lt;b style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0);&quot;&gt;vnwindc02.cyber.range&lt;/b&gt;&lt;br style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0);&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;Windows Server 2019&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/font&gt;&lt;span style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0);&quot;&gt;Domain Controller /&amp;nbsp;&lt;/span&gt;&lt;font style=&quot;&quot; color=&quot;#000000&quot;&gt;Ping Castle&lt;br&gt;&lt;/font&gt;" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.virtual_server;" vertex="1" parent="1">
+          <mxGeometry x="620.9300000000001" y="242.5" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6AgiHDk-AYFdmTXKW45j-134" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=link;" edge="1" parent="1" source="6AgiHDk-AYFdmTXKW45j-129" target="6AgiHDk-AYFdmTXKW45j-36">
           <mxGeometry relative="1" as="geometry" />
@@ -208,14 +204,35 @@
         <mxCell id="6AgiHDk-AYFdmTXKW45j-132" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.ethernet_port;direction=west;" vertex="1" parent="1">
           <mxGeometry x="-440" y="340" width="35" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="6AgiHDk-AYFdmTXKW45j-140" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.switch;" vertex="1" parent="1">
-          <mxGeometry x="-50" y="147.5" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="6AgiHDk-AYFdmTXKW45j-142" value="&lt;b&gt;Homelab VPN&lt;/b&gt;" style="sketch=0;points=[[0.015,0.015,0],[0.985,0.015,0],[0.985,0.985,0],[0.015,0.985,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.rect;prIcon=virtual_private_network;fillColor=#FAFAFA;strokeColor=#005073;" vertex="1" parent="1">
-          <mxGeometry x="40" y="220" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="6AgiHDk-AYFdmTXKW45j-143" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;shape=link;" edge="1" parent="1" source="6AgiHDk-AYFdmTXKW45j-142" target="6AgiHDk-AYFdmTXKW45j-140">
+        <mxCell id="6AgiHDk-AYFdmTXKW45j-164" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.4;entryY=0.414;entryDx=0;entryDy=0;entryPerimeter=0;shape=link;" edge="1" parent="1" source="6AgiHDk-AYFdmTXKW45j-140" target="6AgiHDk-AYFdmTXKW45j-70">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6AgiHDk-AYFdmTXKW45j-140" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.switch;" vertex="1" parent="1">
+          <mxGeometry x="-108.75" y="147.5" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6AgiHDk-AYFdmTXKW45j-145" value="&lt;b&gt;vndt01.cyber.range&lt;/b&gt;&lt;br&gt;RHEL 9.2 Desktop" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/VM_Linux.svg;" vertex="1" parent="1">
+          <mxGeometry x="980.92" y="247.5" width="38.04" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="6AgiHDk-AYFdmTXKW45j-146" value="&lt;b&gt;vndt02.cyber.range&lt;/b&gt;&lt;br&gt;Ubuntu" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/VM_Linux.svg;" vertex="1" parent="1">
+          <mxGeometry x="980.92" y="407.5" width="38.04" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="6AgiHDk-AYFdmTXKW45j-148" value="&lt;font style=&quot;&quot; color=&quot;#000000&quot;&gt;&lt;b&gt;vndb01.cyber.range&lt;/b&gt;&lt;br&gt;RHEL 9.2&lt;br&gt;Wazuh server&lt;br&gt;4 core - 4 GB&lt;br&gt;&lt;/font&gt;" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.virtual_server;" vertex="1" parent="1">
+          <mxGeometry x="440.91" y="562.5" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6AgiHDk-AYFdmTXKW45j-149" value="&lt;b style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0);&quot;&gt;vnwindb01.cyber.range&lt;/b&gt;&lt;br style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0);&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;Windows Server 2019&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/font&gt;&lt;span style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0);&quot;&gt;Domain Controller&lt;/span&gt;&lt;font style=&quot;&quot; color=&quot;#000000&quot;&gt;&lt;br&gt;&lt;/font&gt;" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.virtual_server;" vertex="1" parent="1">
+          <mxGeometry x="620.9300000000001" y="562.5" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6AgiHDk-AYFdmTXKW45j-150" value="&lt;b&gt;vndt03.cyber.range&lt;/b&gt;&lt;br&gt;Arch" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/VM_Linux.svg;" vertex="1" parent="1">
+          <mxGeometry x="980.92" y="567.5" width="38.04" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="6AgiHDk-AYFdmTXKW45j-152" value="&lt;b&gt;Homelab VPN server&lt;/b&gt;" style="sketch=0;points=[[0.015,0.015,0],[0.985,0.015,0],[0.985,0.985,0],[0.015,0.985,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.rect;prIcon=virtual_private_network;fillColor=#FAFAFA;strokeColor=#005073;" vertex="1" parent="1">
+          <mxGeometry x="109.16999999999999" y="692.5" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6AgiHDk-AYFdmTXKW45j-166" value="&lt;b&gt;OVS IntPort&lt;/b&gt;&lt;br&gt;Security Onion Span Port 2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="738.4300000000001" y="101.25" width="160" height="42.5" as="geometry" />
+        </mxCell>
+        <mxCell id="6AgiHDk-AYFdmTXKW45j-167" value="&lt;b&gt;OVS IntPort&lt;/b&gt;&lt;br&gt;Span Port 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-88.75" y="302.5" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
